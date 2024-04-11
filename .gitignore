@@ -1,4 +1,6 @@
 .DS_Store
 .vscode/settings.json
 images/image.jpg
+compose-dev.yaml.vscode/branch-timer.json
+.vscode/branch-timer.json
 compose-dev.yaml
