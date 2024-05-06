@@ -6,7 +6,7 @@ Welcome to Smart Vision Project!
 Introduction:
 
 SmartVision project present Data Science tools and concepts including JavaScript, Python and R. This project is created to tackle issues and struggles facing data scientists in their daily work tasks particularly new ones. 
-# I think of reading things catchy here so new contributors feel like this repo is different and built specially for them. (not sure but this might be an example: why our project is different? This project is built from members with different experiences, backgrounds and cultures which made it declaim different data scientist ......etc)
+# I think of writing things catchy here so new contributors feel like this repo is different and built specially for them. (not sure but this might be an example: why our project is different? This project is built from members with different experiences, backgrounds and cultures which made it declaim different data scientist ......etc)
 
 
 Contributing:
