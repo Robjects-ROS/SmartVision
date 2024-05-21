@@ -74,7 +74,7 @@ o	Create your Pull Request:
 5- Fill Out the Pull Request Form: Provide a title and description for your pull request. Explain what changes you made and why.
 Submit the Pull Request by clicking the "Create pull request" button to submit.
 
-Link:
+Links:
 
 •	Code of conduct document: ……. <!-- need to add a link for code of conduct-->
 
