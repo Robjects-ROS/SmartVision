@@ -51,13 +51,13 @@ You can do that by running: git checkout -b your-branch-name
 
 1-	Edit the Files: Make the necessary changes to the required files.
 
-2-	Stage the Changes: Add the changes to the staging area: by running below code on the terminal or Git Bash: 
+2-	Stage the Changes: Add the changes to the staging area: by running this code on the terminal or Git Bash: 
 git add.
 
-3-	 Commit the Changes: Commit your changes with a descriptive message: run the below code: 
+3-	 Commit the Changes: Commit your changes with a descriptive message: run this code: 
 git commit -m "Describe your changes". 
 
-4-	Push the changes to GitHub: by running below code in the Terminal or Git Bash: git push origin your-branch-name 
+4-	Push the changes to GitHub: by running this code in the Terminal or Git Bash: git push origin your-branch-name 
 
 *Replace your-branch-name with the given name for your branch. 
 
