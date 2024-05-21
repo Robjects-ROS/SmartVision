@@ -6,8 +6,7 @@ This is a computer vision project that uses a Raspberry Pi and a camera to detec
 
 Contributing:
 Thank you for contributing to our project which will help us improve it. You can contribute with us following the below guide:
-
--	For reporting bugs:
+For reporting bugs:
   . Check the existing issues: go to issues tab (link found in links section), if there is any for same bug, please add commit, if       not, please follow the below:
  	    . Open a New Issue: Click on the "Issues" tab. Then click the "New issue" button, usually located to the right side of the page.
  	    . Fill out the issue: add the bug info with clear details. And please make sure to add bug report in the title of the issue.
