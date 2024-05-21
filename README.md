@@ -17,21 +17,38 @@ o	 Open a New Issue: Click on the "Issues" tab. Then click the "New issue" butto
 o	Fill out the issue: add the bug info with clear details. And please make sure to add bug report in the title of the issue.
 
 o	 Submit the issue: click on "submit new issue" button.
+
 For requesting features: 
+
 o	Check the existing issues: go to issues tab (link found in links section), if there is any request for feature, please add commit, if not, please follow the below:
+
 o	Open a New Issue: Click on the "Issues" tab. Then click the "New issue" button, usually located to the right side of the page.
+
 o	Fill out the issue: add the feature info with clear details. And please make sure to add feature request in the title of the issue.
+
 For submitting pull requests: 
+
 o	Fork the Repository:
-o	Go to our repository (https://github.com/Robjects-ML/SmartVision).
-o	Fork the Repository: Click the "Fork" button at the top right corner of the repository page. This will create a copy of the repository under your GitHub account.
+
+1- Go to our repository (https://github.com/Robjects-ML/SmartVision).
+
+2- Fork the Repository: Click the "Fork" button at the top right corner of the repository page. This will create a copy of the repository under your GitHub account.
+
 o	Clone your fork: 
-Clone the Repository: Clone your forked repository to your local machine. In the terminal or Git Bash, run: git clone https://github.com/your-username/repo-name.git Create new branch:
+
+Clone the Repository: Clone your forked repository to your local machine. In the terminal or Git Bash, 
+run: git clone https://github.com/your-username/repo-name.git Create new branch:
+
 *Replace your-username with your GitHub username and repo-name with the name of the repository.
+
 o	Create new branch:
+
 You can do that by running: git checkout -b your-branch-name 
+
 *Replace your-branch-name with a descriptive name for your branch.
-•	Start changes:
+
+Start changes:
+
 o	Edit the Files: Make the necessary changes to the required files.
 o	Stage the Changes: Add the changes to the staging area: by running below code on the terminal or Git Bash: git add.
 o	 Commit the Changes: Commit your changes with a descriptive message: run the below code: git commit -m "Describe your changes". 
