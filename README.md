@@ -1,17 +1,12 @@
-Smart vision Readme:
-
 Welcome to Smart Vision Project!
-
 
 Introduction:
 
-SmartVision project present Data Science tools and concepts including JavaScript, Python and R. This project is created to tackle issues and struggles facing data scientists in their daily work tasks particularly new ones. 
-# I think of writing things catchy here so new contributors feel like this repo is different and built specially for them. (not sure but this might be an example: why our project is different? This project is built from members with different experiences, backgrounds and cultures which made it declaim different data scientist ......etc)
-
+This is a computer vision project that uses a Raspberry Pi and a camera to detect objects in real-time. The project is built using Python and OpenCV.The project is open-source and you can find the code on this GitHub page as more features get added. We tried to built this project drifferently to be more useful as much as we can. We are open for any suggestion or questions, so please don't hesitate to contact us anytime.
 
 Contributing:
 
-Thank you for contributing to our project which will help us improve it. You can contribute with us for below: (providing steps for each of below)
+Thank you for contributing to our project which will help us improve it. You can contribute with us for below:
 -	Reporting bugs.
 -	Requesting features.
 -	Submitting pull requests.
@@ -25,7 +20,7 @@ Links:
 
 License:
 
-We can add here a link of license.
+Please check this link: (https://github.com/Robjects-ML/SmartVision/blob/main/LICENSE.md)
 
 Acknowledgements:
 
