@@ -16,7 +16,8 @@ Thank you for contributing to our project which will help us improve it. You can
 Links:
 -	Contribution guideline document / ………
 -	Code of conduct document/ …….
--	YouTube channel/ …… 
+-	YouTube channel/ ……
+-	Issues/ https://github.com/Robjects-ML/SmartVision/issues
 
 License:
 
