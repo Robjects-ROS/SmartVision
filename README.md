@@ -75,7 +75,7 @@ o	Create your Pull Request:
 Submit the Pull Request by clicking the "Create pull request" button to submit.
 
 Link:
-```
+
 •	Code of conduct document: ……. <
 
 •	YouTube channel: …… 
@@ -83,7 +83,6 @@ Link:
 •	Issues: https://github.com/Robjects-ML/SmartVision/issues
 
 •	Pull Requests: https://github.com/Robjects-ML/SmartVision/pulls
-```
 
 License: 
 
