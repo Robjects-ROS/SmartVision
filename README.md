@@ -76,9 +76,9 @@ Submit the Pull Request by clicking the "Create pull request" button to submit.
 
 Link:
 
-•	Code of conduct document: ……. <
+•	Code of conduct document: ……. <!-- need to add a link for code of conduct-->
 
-•	YouTube channel: …… 
+•	YouTube channel: …… <!-- need to add a link for youtube channel-->
 
 •	Issues: https://github.com/Robjects-ML/SmartVision/issues
 
@@ -98,6 +98,6 @@ GitHub accounts for team members and leader:
  
 John: Geomatic13 (team member)
 
-Alaa: .... <need to know the link for Alaa's account> (team member)
+Alaa: .... <!-- need to add Alaa's GitHub account--> (team member)
 
 Mike: garzarobm (Leader)
