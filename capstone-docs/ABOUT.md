@@ -9,51 +9,33 @@ Moreover, to ensure that I stay on track with the project, I have created a list
 
 ## Assignment List
 
-- **Tools & technology**
+1. **Tools & technology**
     - Due: Feb 18 at 11:59pm
-    - Points: 100
-    - Submission: No submission for this assignment
 
-- **Model training code**
+2. **Model training code**
     - Due: Mar 8 at 11:59pm
-    - Points: 100
-    - Submission: No submission for this assignment
 
-- **Functionality implementation**
+3. **Functionality implementation**
     - Due: Mar 22 at 11:59pm
-    - Points: 100
-    - Submission: No submission for this assignment
 
-- **Advanced feature development**
+4. **Advanced feature development**
     - Due: Apr 2 at 11:59pm
-    - Points: 100
-    - Submission: No submission for this assignment
 
-- **POC (Proof of Concept)**
+5. **POC (Proof of Concept)**
     - Due: May 3 at 11:59pm
-    - Points: 100
-    - Submission: No submission for this assignment
 
-- **Project Report**
+6. **Project Report**
     - Due: May 3 at 11:59pm
-    - Points: 100
-    - Submission: No submission for this assignment
 
-- **Video**
+7. **Video**
     - Due: May 3 at 11:59pm
-    - Points: 100
-    - Submission: No submission for this assignment
 
-- **Power Point**
+8. **Power Point**
     - Due: May 3 at 11:59pm
-    - Points: 100
-    - Submission: No submission for this assignment
 
-- **Capstone project proposal**
+9. **Capstone project proposal**
     - Due: Feb 7 at 11:59pm
-    - Points: 100
     - Status: Not Yet Graded
-    - Submission: Assignment not yet graded
 
 
 I create this project with the intention of learning and developing a project from scratch. I hope to learn a lot from this project and develop a project that I can be proud of. I am excited to see how this project will turn out and I am looking forward to the final presentation.
