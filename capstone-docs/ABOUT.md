@@ -35,7 +35,6 @@ Moreover, to ensure that I stay on track with the project, I have created a list
 
 9. **Capstone project proposal**
     - Due: Feb 7 at 11:59pm
-    - Status: Not Yet Graded
 
 
 I create this project with the intention of learning and developing a project from scratch. I hope to learn a lot from this project and develop a project that I can be proud of. I am excited to see how this project will turn out and I am looking forward to the final presentation.
