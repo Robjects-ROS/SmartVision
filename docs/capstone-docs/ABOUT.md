@@ -10,7 +10,7 @@ Moreover, to ensure that I stay on track with the project, I have created a list
 ## Assignment List
 
 1. **Tools & technology**
-    - Due: Feb 18 at 11:59pm
+   ~~ - Due: Feb 18 at 11:59pm~~
 
 2. **Model training code**
     - Due: Mar 8 at 11:59pm
