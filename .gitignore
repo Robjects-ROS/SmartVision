@@ -1,9 +1,9 @@
 .DS_Store
 .vscode/settings.json
-images/image.jpg
+images/dataset/*
 compose-dev.yaml.vscode/branch-timer.json
 .vscode/branch-timer.json
 compose-dev.yaml
 .vscode/ext.config.json
 .vscode/github-dev.code-profile
-./images/dataset/*
+.vscode/github.code-profile
