@@ -6,3 +6,4 @@ compose-dev.yaml.vscode/branch-timer.json
 compose-dev.yaml
 .vscode/ext.config.json
 .vscode/github-dev.code-profile
+./images/dataset/*
