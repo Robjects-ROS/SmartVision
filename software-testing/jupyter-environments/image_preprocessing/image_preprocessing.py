@@ -7,8 +7,15 @@ import matplotlib.pyplot as plt
 
 def resize_image_updated(image, target_size):
     """
-    Resize the input image to the target size.
-    Works with both older and newer versions of PIL.
+    Resize an image to the target size using the LANCZOS resampling method.
+
+    Parameters:
+    image (numpy array or PIL Image): The input image to be resized.
+    target_size (tuple): The target size (width, height) to resize the image to.
+
+    Returns:
+    resized_image (numpy array or PIL Image): The resized image.
+   
     """
     # Check if the input image is a numpy array
     if isinstance(image, np.ndarray):
@@ -53,6 +60,16 @@ def normalize_image(image):
     
 
 def augment_data(images, labels):
+    """
+    Augments a list of images and their corresponding labels by applying data augmentation techniques.
+    Parameters:
+    images (list): A list of images to be augmented.
+    labels (list): A list of labels corresponding to the images.
+    Returns:
+    tuple: A tuple containing two lists:
+        - augmented_images (list): A list containing the original and augmented images.
+        - augmented_labels (list): A list containing the corresponding labels for the original and augmented images.
+    """
     augmented_images = []
     augmented_labels = []
     
