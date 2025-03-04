@@ -13,3 +13,4 @@ etc/basic_sample_dataset
 etc/dataset
 software-testing/jupyter-environments/image_preprocessing/data
 software-testing/jupyter-environments/image_preprocessing/__pycache__
+software-testing/jupyter-environments/model_training/data

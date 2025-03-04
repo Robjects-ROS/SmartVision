@@ -5,10 +5,11 @@ import tensorflow as tf
 from tensorflow.keras.models import load_model
 from tensorflow.keras.callbacks import ModelCheckpoint, EarlyStopping
 
+
 # Define paths
 data_dir = 'software-testing/jupyter-environments/image_preprocessing/data/'
-training_first_iteration/base_images (4 total colors)
-model_save_path = ''
+model_save_path = 'model.h5'
+
 
 # Load YOLO model
 def load_yolo_model():
