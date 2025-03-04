@@ -8,3 +8,6 @@ compose-dev.yaml
 .vscode/github-dev.code-profile
 .vscode/github.code-profile
 docs/capstone-docs/1-project-proposal/IMG_3228.HEIC
+etc/__pycache__
+etc/basic_sample_dataset
+etc/dataset
