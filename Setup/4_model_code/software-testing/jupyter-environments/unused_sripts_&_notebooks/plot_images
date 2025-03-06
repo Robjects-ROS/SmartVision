@@ -1,0 +1,32 @@
+import os
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+
+# Define the path to the images
+image_path = './data/training_first_iteration/raw_images/resized-small'
+
+# Check if the directory exists
+if os.path.exists(image_path):
+    # Get the list of image files in the directory
+    valid_extensions = ('.jpg', '.jpeg', '.png', '.bmp', '.gif')
+    image_files = [f for f in os.listdir(image_path) if os.path.isfile(os.path.join(image_path, f)) and f.lower().endswith(valid_extensions)]
+
+    if image_files:
+        # Display the images
+        plt.figure(figsize=(15, 15))
+
+        for i, image_file in enumerate(image_files):
+            img = mpimg.imread(os.path.join(image_path, image_file))
+            plt.subplot(5, 5, i + 1)
+            plt.imshow(img)
+            plt.title(image_file, fontsize=8, y=-0.50)
+            plt.axis('off')
+            height, width = img.shape[:2]
+            plt.annotate(f'{width}x{height}', xy=(0.5, -0.15), xycoords='axes fraction', ha='center', fontsize=8, color='white', backgroundcolor='black')
+
+        plt.subplots_adjust(hspace=0.5, wspace=0.30)
+        plt.show()
+    else:
+        print("No valid image files found in the directory.")
+else:
+    print(f"Directory '{image_path}' does not exist.")

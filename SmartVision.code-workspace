@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "SmartVision",
+			"path": "."
+		}
+	],
+	"settings": {
+		"extensions.closeExtensionDetailsOnViewChange": true,
+		"window.autoDetectColorScheme": true,
+		"workbench.commandPalette.experimental.askChatLocation": "quickChat",
+		"workbench.commandPalette.experimental.suggestCommands": true,
+		"workbench.commandPalette.history": 50,
+		"workbench.commandPalette.preserveInput": true
+	}
+}
