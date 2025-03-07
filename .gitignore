@@ -148,7 +148,8 @@ Setup/4_model_code/software-testing/data/training_first_iteration/organized
 /Setup/1_hardware_config/external_opencv
 Setup/1_hardware_config/B_opencv_testing_scripts/.ipynb_checkpoints
 Setup/1_hardware_config/C_camera_config_scripts/.ipynb_checkpoints
-Setup/1_hardware_config/external_opencv/1.OpenCV_basic
-Setup/2_image_dataset_config/data_preprocessing/4.opencv
 Setup/2_image_dataset_config/data_preprocessing/4_file.zip
 Setup/2_image_dataset_config/image_preprocessing/__pycache__
+Setup/2_image_dataset_config/data_preprocessing/4.opencv/.ipynb_checkpoints
+Setup/2_image_dataset_config/data_preprocessing/4.opencv/3.draw_picture/.ipynb_checkpoints
+Setup/2_image_dataset_config/data_preprocessing/4.opencv/4.image/.ipynb_checkpoints
