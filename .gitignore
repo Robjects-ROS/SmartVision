@@ -145,7 +145,4 @@ Setup/4_model_code/software-testing/data/training_first_iteration/raw_images/res
 Setup/4_model_code/software-testing/data/training_first_iteration/raw_images/resized-original/yellow_color_icon_0334.JPG
 Setup/4_model_code/software-testing/data/training_first_iteration/raw_images/resized-original/yellow_color_icon_0335.JPG
 Setup/4_model_code/software-testing/data/training_first_iteration/organized
-Setup/1_hardware_config/A_servo_config_scripts/test-scripts/01_read_pic.ipynb
-Setup/1_hardware_config/A_servo_config_scripts/test-scripts/02_write_pic.ipynb
-Setup/1_hardware_config/A_servo_config_scripts/test-scripts/03_quality_pic.ipynb
-Setup/1_hardware_config/A_servo_config_scripts/test-scripts/04_pixel_pic.ipynb
+/Setup/1_hardware_config/external_opencv
