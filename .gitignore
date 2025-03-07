@@ -153,3 +153,9 @@ Setup/2_image_dataset_config/image_preprocessing/__pycache__
 Setup/2_image_dataset_config/data_preprocessing/4.opencv/.ipynb_checkpoints
 Setup/2_image_dataset_config/data_preprocessing/4.opencv/3.draw_picture/.ipynb_checkpoints
 Setup/2_image_dataset_config/data_preprocessing/4.opencv/4.image/.ipynb_checkpoints
+dofbot-Pi-main
+Setup/3_model_config/model/LegoGears_v2
+Setup/3_model_config/dofbot_garbage_yolov4_tiny/.ipynb_checkpoints
+Setup/3_model_config/dofbot_garbage_yolov4_tiny/.idea
+Setup/3_model_config/dofbot_garbage_yolov4_tiny/model_data/.ipynb_checkpoints
+Setup/3_model_config/scripts/单个垃圾分拣玩法.ipynb
