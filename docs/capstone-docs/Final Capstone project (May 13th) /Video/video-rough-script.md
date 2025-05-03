@@ -16,26 +16,3 @@
 ### 3.1 "Doffy" hardware arm reading and writing
 ## 3.1 "Doffy" arm movement showcase nvironmentrobot abilities: -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-# 2. Problem Statement
-# 3. Data Collection
-# 4. Data Preprocessing
-# 5. Data Analysis
-# 6. Model Selection
-# 7. Model Training
-# 8. Model Evaluation
-# 9. Conclusion
-# 10. Future Work
-
-
