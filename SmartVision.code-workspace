@@ -11,6 +11,10 @@
 		"workbench.commandPalette.experimental.askChatLocation": "quickChat",
 		"workbench.commandPalette.experimental.suggestCommands": true,
 		"workbench.commandPalette.history": 50,
-		"workbench.commandPalette.preserveInput": true
+		"workbench.commandPalette.preserveInput": true,
+		"github.copilot.editor.enableAutoCompletions": false,
+		"github.copilot.advanced": {
+			
+		}
 	}
 }
