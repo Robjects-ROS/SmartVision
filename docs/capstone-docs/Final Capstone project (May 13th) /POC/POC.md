@@ -1,8 +1,54 @@
-# SmartVision: Color Recognition and Categorization System Using Raspberry Pi and Computer Vision
+# Building a Modular AI Camera System Using Open-Source Tools and Raspberry Pi Hardware
 
-SmartVision is an intelligent robotic system that uses a Raspberry Pi-controlled robotic arm and computer vision to detect, analyze, and categorize colored objects. This proof of concept demonstrates how affordable hardware combined with machine learning can create powerful educational tools.
-<!-- 
+SmartVision is an intelligent robotic system that uses a Raspberry Pi-controlled robotic arm and computer vision to detect, analyze, and record clips of important for a multitude possible use cases. 
+
+## Executive Summary
+
+The primary objective of this project is to explore and apply open-source machine learning libraries for image and video processing while demonstrating their capabilities on portable, tangible hardware. By integrating these tools with real-time computer and camera systems, we aim to bridge the gap between theoretical knowledge and practical application. This hands-on approach not only deepens our understanding of frameworks like OpenCV but also fosters an innovative learning environment where creativity thrives. The project empowers learners to develop novel solutions and showcase unique implementations, highlighting the potential of accessible technology in real-world scenarios.
+
+
+
+Core Specifications
+Sensor:
+CMOS sensor with 5.0MP interpolated resolution (up to 8MP via software).
+Pixel size: 4.2µm x 4.2µm (1/2" optical format).
+Video/Image Performance:
+Max resolution: 2560x1920 (5MP) for stills, 1600x1200 (2MP) for video.
+Frame rate: 30 FPS at 640x480, 15 FPS at 1600x1200.
+Controls:
+Manual focus, auto exposure, and adjustable white balance.
+Gain range: 1–7.75x, exposure range: 64µs–2s.
+Connectivity:
+USB 2.0 interface with plug-and-play UVC compliance.
+Key Features
+Built-in microphone with noise reduction.
+Multi-platform support: Windows XP/Vista/7/10, macOS 10.4.3+.
+Software suite: Includes face tracking, zoom (4x digital), and real-time effects.
+Mechanical design: German steel casing with 3 interchangeable stands.
+
+Hardware and Software Foundations
+Core Components
+Raspberry Pi 5 (8GB RAM): Provides sufficient compute for multi-model inference pipelines.
+Sony IMX500 AI Camera: Processes vision tasks directly on its 8MB dedicated memory, reducing CPU load by 40% compared to traditional camera modules.
+
+
 ## The Problem We're Solving
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 The education sector faces challenges with information organization and visual learning techniques. Students often struggle to organize and categorize new information efficiently, particularly when studying complex topics. Traditional categorization methods like handwritten notes can be disorganized and difficult to manage. Our solution addresses this by creating an automated system that can:
 
