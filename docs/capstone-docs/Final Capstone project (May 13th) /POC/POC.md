@@ -9,14 +9,7 @@ SmartVision is an intelligent robotic system that uses a Raspberry Pi-controlled
 
 Demonstrate that open-source tools (ROS, OpenCV) and affordable hardware (Raspberry Pi 4/5) can replicate advanced camera/AI features like object tracking, gesture recognition, and color-based sorting.
 
-## Executive Summary
-
-The primary objective of this project is to explore and apply open-source machine learning libraries for image and video processing while demonstrating their capabilities on portable, tangible hardware. By integrating these tools with real-time computer and camera systems, we aim to bridge the gap between theoretical knowledge and practical application. This hands-on approach not only deepens our understanding of frameworks like OpenCV but also fosters an innovative learning environment where creativity thrives. The project empowers learners to develop novel solutions and showcase unique implementations, highlighting the potential of accessible technology in real-world scenarios.
-
-For this Report and other submission items, the audience will be taken through the learning journey of the struggles, successes, the failures, and future possibilities of working with the the new tools and and environments. 
-
-
-## Executive Summary
+## Executive Summary 
 
 This project explores the development of a modular AI-powered camera system using open-source tools and Raspberry Pi hardware. The primary goal is to demonstrate the practical application of machine learning frameworks for image and video processing on portable, cost-effective hardware. By integrating these technologies with real-time computer vision systems, the project bridges the gap between theoretical knowledge and hands-on implementation.
 
