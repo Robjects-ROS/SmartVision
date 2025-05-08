@@ -173,3 +173,6 @@ Setup/5_model_feature_implementation/Unused Features Docs
 docs/capstone-docs/Final Capstone project (May 13th) /POC/~$C conv.docx
 docs/capstone-docs/Final Capstone project (May 13th) /POC/~$POC.docx
 Setup/2_image_dataset_config/4_file.zip
+Setup/3_model_config/other-sample-projects/lego-gears_darknet_practice/test_run/nn
+Setup/3_model_config/other-sample-projects/lego-gears_darknet_practice
+Setup/3_model_config/dofbot_garbage_yolov4_tiny/nets/__pycache__
