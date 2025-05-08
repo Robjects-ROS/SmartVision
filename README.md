@@ -12,13 +12,13 @@ Welcome to SmartVision! This is a project that I have been working on for a whil
 
 This is a computer vision project that uses a Raspberry Pi and a camera to detect objects in real-time. The project is built using Python and OpenCV. The project is open-source and you can find the code on this GitHub page as more features get added. We tried to build this project differently to be more useful as much as we can. We are open for any suggestion or questions, so please don't hesitate to contact us anytime.
 
-- [Welcome to Smart Vision Project!](#welcome-to-smart-vision-project)
+- [SmartVision](#smartvision)
+- [Welcome to Smart Vision Project.](#welcome-to-smart-vision-project)
   - [Introduction:](#introduction)
-  - [Table of Contents:](#table-of-contents)
   - [Contributing:](#contributing)
-  - [Links:](#Links)
-  - [License:](#License)
-  - [Acknowledgements:](#Acknowledgements)
+  - [Links:](#links)
+  - [License:](#license)
+  - [Acknowledgements:](#acknowledgements)
 
 ## Contributing: 
 
@@ -114,10 +114,6 @@ Please check this link: (https://github.com/Robjects-ML/SmartVision/blob/main/LI
 
 ## Acknowledgements: 
 
-SmartVision project is built from team members “Eman" guided by “Mike”. 
 
-GitHub accounts for team members and leader:
-
-- Eman:EmanAbdelmeguidAhmed (team member)
 
 - Mike: garzarobm (Leader)
