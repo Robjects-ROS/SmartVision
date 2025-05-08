@@ -2,11 +2,70 @@
 
 ![Image description](./../../../../etc/imgs/doffy.jpeg)
 
-SmartVision is an intelligent robotic system that uses a Raspberry Pi-controlled robotic arm and computer vision to detect, analyze, and record clips of important for a multitude possible use cases. 
+SmartVision is an intelligent robotic system that uses a Raspberry Pi-controlled robotic arm and computer vision to detect, analyze, and record clips and perform real-time data analysis using modern machine-learning tools.  
 
 
-## Core Objective
+## Core Objective - what problems pertain to  I am trying to solve
 
+Currently, the machine learning frameworks that are currently portrayed are quite general with basic examples that usually don't document or comment all the possible code parameter.
+
+You might receive a set of python scripts or notebooks that loosely take you through a use case of opencv which lack depth and explanation of the various outputs across the hard-to-find alternative options.
+
+For example, a common example of OpenCV usage for image preprocessing is converting an image from one color space to another.
+
+For instance, converting an image from BGR (Blue, Green, Red) to grayscale can be achieved with a single function call:
+
+```python
+import cv2
+
+# Load the image
+image = cv2.imread('example.jpg')
+
+# Convert the image to grayscale
+gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+
+# Save or display the processed image
+cv2.imwrite('gray_example.jpg', gray_image)
+
+
+Although this example demonstrates a straightforward method for converting an image to grayscale, it lacks the depth required for beginners to fully grasp the underlying concepts of image preprocessing. A more effective tutorial would not only explain the purpose of each step but also explore alternative methods, parameter adjustments, and their impact on the output. By providing a comprehensive explanation, learners can build a solid foundation, enabling them to experiment and develop innovative solutions tailored to their specific use cases.
+
+**Problems being attempted to solve:**
+
+- Lack of comprehensive, beginner-friendly tutorials for OpenCV and computer vision workflows.
+- Insufficient documentation and explanation of alternative methods and parameters in machine learning frameworks.
+- Difficulty for students and analysts to move beyond basic examples to create custom, real-world applications.
+- Limited exposure to the practical integration of hardware and software in computer vision projects.
+- Challenges in bridging the gap between theoretical knowledge and hands-on, innovative problem-solving.
+- Frustration caused by the absence of clear pathways for exploring and experimenting with different computer vision techniques.
+- Inaccessibility of advanced features and use cases for those without prior experience or guidance.
+
+Instead, this proof of concept is centered around  the idea of creating a customized, modular AI-powered camera system that can be used for various applications, such as educational tools, healthcare solutions, and industrial automation. The goal is to provide a hands-on learning experience that allows students to see a real-world application of machine learning and computer vision in a practical context.
+
+The project aims to create a customized, modular AI-powered camera system that can be used for various applications, such as educational tools, healthcare solutions, and industrial automation. The goal is to provide a hands-on learning experience that allows students to explore the capabilities of machine learning and computer vision in a practical engineering context and to develop a deeper understanding of the underlying technologies which is often lacking in traditional educational settings and fundamental to enabling students to create their own unique solutions that have not been documented or created before.
+
+
+
+
+
+--
+
+The project will feature:
+- A Raspberry Pi-controlled robotic arm: This will allow for precise movement and manipulation of objects, enabling the camera to capture images and videos from different angles and perspectives.
+
+
+modular AI-powered camera system that can be used for various applications, such as educational tools, healthcare solutions, and industrial automation. The goal is to provide a hands-on learning experience that allows students to explore the capabilities of machine learning and computer vision in a practical context.
+
+Hence, here l
+
+use cases don't allow students  might become frustrated as the alternative options are not listed. 
+
+
+which ultimately lead you to and generate examples that are highly likely to differ than the actual use case of the data analyst.
+
+
+- 
+The lack of computer vision libraries and tools being implemented for small-scale, unique, 
 Demonstrate that open-source tools (ROS, OpenCV) and affordable hardware (Raspberry Pi 4/5) can replicate advanced camera/AI features like object tracking, gesture recognition, and color-based sorting.
 
 ## Executive Summary 
