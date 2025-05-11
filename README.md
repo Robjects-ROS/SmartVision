@@ -24,6 +24,7 @@ We hope that this project will inspire you to explore the exciting world of comp
     - [For submitting pull requests](#for-submitting-pull-requests)
       - [Fork the Repository](#fork-the-repository)
     - [Create new branch](#create-new-branch)
+    - [Start changes](#start-changes)
     - [Create your Pull Request](#create-your-pull-request)
   - [Links](#links)
   - [License](#license)
@@ -76,23 +77,23 @@ You can do that by running:
 
 *Replace your-branch-name with a descriptive name for your branch.
 
-- ### Start changes
+### Start changes
 
 1. Edit the Files: Make the necessary changes to the required files.
 
 2. Stage the Changes: Add the changes to the staging area: by running this code on the terminal or Git Bash:
 
-`git add`
+   `git add`
 
 3. Commit the Changes: Commit your changes with a descriptive message: run this code:
 
-`git commit -m "Describe your changes"`
+   `git commit -m "Describe your changes"`
 
 4. Push the changes to GitHub: by running this code in the Terminal or Git Bash:
 
-`git push origin your-branch-name`
+   `git push origin your-branch-name`
 
-*Replace your-branch-name with the given name for your branch.
+   *Replace your-branch-name with the given name for your branch.*
 
 ### Create your Pull Request
 
