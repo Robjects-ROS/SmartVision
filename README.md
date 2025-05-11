@@ -14,6 +14,7 @@ The project is open-source, which means that anyone can contribute to it. We wel
 We hope that this project will inspire you to explore the exciting world of computer vision and help you develop your skills in this rapidly growing field. Whether you are a hobbyist, student, or professional, we believe that this project will provide you with a solid foundation for building your own computer vision applications.
 
 ## Table of Contents
+
 - [SmartVision](#smartvision)
   - [Welcome to Smart Vision Project](#welcome-to-smart-vision-project)
   - [Table of Contents](#table-of-contents)
