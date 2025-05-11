@@ -82,7 +82,7 @@ Setup/
 
 1. **Hardware Setup**:
    - Start with the `Hardware_Configuration_Checklist.ipynb` to configure and test hardware components.
-   - Use `camera_test.ipynb` to verify the camera setup.
+   - Use `camera_test.ipynb` to verify the camera setup. If you encounter issues, refer to the `Test_Hardware/` folder for troubleshooting. I created zip files that contain all the necessary files for the camera and servo motor testing. You can find them in the `0_system_settings/` folder.
 
 2. **Dataset Preparation**:
    - Navigate to `2_image_dataset_config/` for preprocessing and augmenting datasets.
